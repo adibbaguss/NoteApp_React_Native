@@ -16,7 +16,6 @@ const App = () => {
   const [selectedNote, setSelectedNote] = useState(null); // State untuk menyimpan catatan yang dipilih
 
   const addNote = (title, desc) => {
-    console.log('1. id:', id, '| 2. title:', title, '| 3. desc:', desc);
     const id = noteList.length > 0 ? noteList[noteList.length - 1].id + 1 : 1;
     setNoteList([
       ...noteList,
