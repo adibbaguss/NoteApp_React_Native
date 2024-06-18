@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.js": "%7Busername%7D.github.io/%7Brepository-name%7D/static/js/main.dfccfe4d.js",
+    "static/js/870.7cdf34ca.js": "%7Busername%7D.github.io/%7Brepository-name%7D/static/js/870.7cdf34ca.js",
+    "favicon.ico": "%7Busername%7D.github.io/%7Brepository-name%7D/favicon.ico",
+    "index.html": "%7Busername%7D.github.io/%7Brepository-name%7D/index.html",
+    "favicon-32.png": "%7Busername%7D.github.io/%7Brepository-name%7D/favicon-32.png",
+    "favicon-16.png": "%7Busername%7D.github.io/%7Brepository-name%7D/favicon-16.png",
+    "manifest.json": "%7Busername%7D.github.io/%7Brepository-name%7D/manifest.json",
+    "serve.json": "%7Busername%7D.github.io/%7Brepository-name%7D/serve.json",
+    "main.dfccfe4d.js.map": "%7Busername%7D.github.io/%7Brepository-name%7D/static/js/main.dfccfe4d.js.map",
+    "870.7cdf34ca.js.map": "%7Busername%7D.github.io/%7Brepository-name%7D/static/js/870.7cdf34ca.js.map"
+  },
+  "entrypoints": [
+    "static/js/870.7cdf34ca.js",
+    "static/js/main.dfccfe4d.js"
+  ]
+}
