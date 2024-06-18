@@ -2,7 +2,7 @@
   "name": "progatenoteapp",
   "version": "1.0.0",
   "main": "expo/AppEntry.js",
-  "homepage": "http://{username}.github.io/{repository-name}",
+  "homepage": "http://adibbaguss.github.io/NoteApp_React_Native",
   "scripts": {
     "start": "expo start",
     "android": "expo run:android",
