@@ -28,7 +28,6 @@ const App = () => {
   };
 
   const editNote = (title, desc) => {
-    console.log('1. title:', title, '| 2. desc:', desc);
     setNoteList(noteList.map((note) => (note.id === selectedNote.id ? { ...note, title, desc } : note)));
   };
 
